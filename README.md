@@ -6,7 +6,7 @@
 
 ###
 
-<h6 align="left">I’m a passionate .NET developer with a background in computer science and a love for clean code. I thrive on solving complex problems and creating efficient, scalable applications.</h6>
+<h5 align="left">I’m a passionate .NET developer with a background in computer science and a love for clean code. I thrive on solving complex problems and creating efficient, scalable applications.</h5>
 
 ###
 
